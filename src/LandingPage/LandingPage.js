@@ -5,7 +5,7 @@ import { RightContainer } from "./components/RightContainer.styled";
 import { Flex } from "./components/Flex.styled";
 import { Button } from "./components/Button.styled";
 import { ColoredHeader } from "./components/ColoredHeader.styled";
-import LandingPageImage from "./LandingPageImage.svg";
+import LandingPageImage from "../LandingPageImage.svg";
 import { RightTopContainer } from "./components/RightTopContainer.styled";
 import { RightBottomContainer } from "./components/RightBottomContainer.styled";
 import { HeaderColor } from "./components/HeaderColor.styled";

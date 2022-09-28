@@ -1,9 +1,9 @@
 import React from "react";
-import BirthdayCake from "./Birthdaycake.png";
-import { Flex } from "./components/Flex.styled";
-import { RightContainer } from "./components/RightContainer.styled";
-import { LeftContainer } from "./components/LeftContainer.styled";
-import { HeaderColor } from "./components/HeaderColor.styled";
+import BirthdayCake from "../Birthdaycake.png";
+import { Flex } from "../LandingPage/components/Flex.styled";
+import { RightContainer } from "../LandingPage/components/RightContainer.styled";
+import { LeftContainer } from "../LandingPage/components/LeftContainer.styled";
+import { HeaderColor } from "../LandingPage/components/HeaderColor.styled";
 
 const CreateEvent = () => {
   return (

@@ -1,6 +1,6 @@
 import { BrowserRouter, Routes, Route } from "react-router-dom";
-import LandingPage from "./LandingPage";
-import CreateEvent from "./CreateEvent";
+import LandingPage from "./LandingPage/LandingPage";
+import CreateEvent from "./CreateEvent/CreateEvent";
 
 function App() {
   return (
